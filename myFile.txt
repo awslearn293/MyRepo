@@ -1,7 +1,4 @@
 Hi welcome to my git practice session
+<<<<<<< HEAD
 My second Line of code
-hfuhiodflk
-bvfnhbklfnmbklfdnl
-\bvjdnvkfmbkfmkvm
-hdbvjdcnvklnkvln
-sbfjdnvklndlk
+>>>>>>> parent of 0faf496 (Contains my second line of code)
