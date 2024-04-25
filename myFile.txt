@@ -1,4 +1,6 @@
 Hi welcome to my git practice session
-<<<<<<< HEAD
-My second Line of code
->>>>>>> parent of 0faf496 (Contains my second line of code)
+#Add Java my Code
+dbdkd;lvl;fkvkfvl
+njvnkdfmvmflbnfjkn
+jvfkfkmkfmbklmgkfcdk
+nvjfnklfklbmgmb
